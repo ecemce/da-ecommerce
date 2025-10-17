@@ -3,7 +3,8 @@
 ## Proje Hakkında
 E-ticaret platformu için analiz projesi yapıldı ve ilgili raporlar Looker içerisinde raporlandı.
 
-## Veri Kaynakları
+##Veri Kaynakları
+
 orders - Sipariş verileri
 customers - Müşteri bilgileri
 brands - Marka verileri
