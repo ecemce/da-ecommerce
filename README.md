@@ -7,13 +7,21 @@ E-ticaret platformu için analiz projesi yapıldı ve ilgili raporlar Looker iç
 
 orders - Sipariş verileri
 customers - Müşteri bilgileri
+
 brands - Marka verileri
+
 items - Ürün kategorileri
+
 merchants - Satıcı bilgileri
+
 clickstreams - Clickstream verileri
+
 marketplace - Market fiyat verileri
+
 analytics_vw_sales_kpis - Satış KPI view
+
 clickstreams_vw_fa - Funnel analizi view
+
 marketplace_vw - Market analizi view
 
 ## Analiz Bölümleri
