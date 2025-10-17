@@ -1,4 +1,4 @@
-# Data Analyst Case Study
+# E-ticaret Analiz Projesi
 
 ## Proje Hakkında
 E-ticaret platformu için analiz projesi yapıldı ve ilgili raporlar Looker içerisinde raporlandı.
